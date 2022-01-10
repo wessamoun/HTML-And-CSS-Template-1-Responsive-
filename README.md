@@ -1,1 +1,1 @@
-"# HTML-And-CSS-Template-1-Responsive-" 
+# HTML, CSS and Js Template 1
